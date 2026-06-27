@@ -1,5 +1,11 @@
 https://bank-customer-churn-prediction-plzeqz485vbre8yvszboek.streamlit.app/
 
+# LIVE DEMO
+<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/31bfdfaa-b63b-4c0e-9a27-4ecc7a7c066f" />
+<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/f15905a7-07ea-49fb-9052-9a1fe0a0d87a" />
+<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/e21a01a3-b883-4179-acfd-bef1f4681cd1" />
+
+
 # AI Customer Churn Prediction System
 
 An end-to-end Machine Learning application that predicts whether a banking customer is likely to churn and provides risk analysis with recommendations.
